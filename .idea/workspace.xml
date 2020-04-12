@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="79d172c7-914c-49dd-aaf2-728a73f95e2e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aQr5bJYTV8k9m7QIfw2K0THzGJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MesBot" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Loblo\Desktop\projekt\MesBot\app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.app" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="79d172c7-914c-49dd-aaf2-728a73f95e2e" name="Default Changelist" comment="" />
+      <created>1586678475062</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586678475062</updated>
+      <workItem from="1586678484696" duration="5596000" />
+      <workItem from="1586715895421" duration="242000" />
+      <workItem from="1586725528254" duration="1786000" />
+      <workItem from="1586730501123" duration="67000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2365" y="274" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586682138855">
+      <screen x="1920" y="87" width="1360" height="768" />
+    </state>
+    <state x="2365" y="274" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080/1920.87.1360.768@1920.87.1360.768" timestamp="1586682138855" />
+    <state width="1317" height="186" key="GridCell.Tab.0.bottom" timestamp="1586729457424">
+      <screen x="1920" y="87" width="1360" height="768" />
+    </state>
+    <state width="1300" height="189" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.87.1360.768@0.0.1920.1080" timestamp="1586686176282" />
+    <state width="1317" height="186" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.87.1360.768@1920.87.1360.768" timestamp="1586729457424" />
+    <state width="1317" height="186" key="GridCell.Tab.0.center" timestamp="1586729457424">
+      <screen x="1920" y="87" width="1360" height="768" />
+    </state>
+    <state width="1300" height="189" key="GridCell.Tab.0.center/0.0.1920.1080/1920.87.1360.768@0.0.1920.1080" timestamp="1586686176282" />
+    <state width="1317" height="186" key="GridCell.Tab.0.center/0.0.1920.1080/1920.87.1360.768@1920.87.1360.768" timestamp="1586729457424" />
+    <state width="1317" height="186" key="GridCell.Tab.0.left" timestamp="1586729457424">
+      <screen x="1920" y="87" width="1360" height="768" />
+    </state>
+    <state width="1300" height="189" key="GridCell.Tab.0.left/0.0.1920.1080/1920.87.1360.768@0.0.1920.1080" timestamp="1586686176282" />
+    <state width="1317" height="186" key="GridCell.Tab.0.left/0.0.1920.1080/1920.87.1360.768@1920.87.1360.768" timestamp="1586729457424" />
+    <state width="1317" height="186" key="GridCell.Tab.0.right" timestamp="1586729457424">
+      <screen x="1920" y="87" width="1360" height="768" />
+    </state>
+    <state width="1300" height="189" key="GridCell.Tab.0.right/0.0.1920.1080/1920.87.1360.768@0.0.1920.1080" timestamp="1586686176282" />
+    <state width="1317" height="186" key="GridCell.Tab.0.right/0.0.1920.1080/1920.87.1360.768@1920.87.1360.768" timestamp="1586729457424" />
+    <state x="461" y="182" key="SettingsEditor" timestamp="1586730592076">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="461" y="182" key="SettingsEditor/0.0.1920.1080/1920.87.1360.768@0.0.1920.1080" timestamp="1586730592076" />
+    <state x="2361" y="339" key="com.intellij.ide.util.TipDialog" timestamp="1586730503729">
+      <screen x="1920" y="87" width="1360" height="768" />
+    </state>
+    <state x="623" y="354" key="com.intellij.ide.util.TipDialog/0.0.1920.1080/1920.87.1360.768@0.0.1920.1080" timestamp="1586725529742" />
+    <state x="2361" y="339" key="com.intellij.ide.util.TipDialog/0.0.1920.1080/1920.87.1360.768@1920.87.1360.768" timestamp="1586730503729" />
+    <state x="2263" y="176" width="672" height="678" key="search.everywhere.popup" timestamp="1586682452332">
+      <screen x="1920" y="87" width="1360" height="768" />
+    </state>
+    <state x="2263" y="176" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080/1920.87.1360.768@1920.87.1360.768" timestamp="1586682452332" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/MesBot$main.coverage" NAME="main Coverage Results" MODIFIED="1586726715635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
